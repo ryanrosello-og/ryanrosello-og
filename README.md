@@ -41,3 +41,6 @@ I work at ortto, where I make production grade test automation code in order to 
 * [Use playwright to download files from remote servers](https://dev.to/ryanroselloog/use-playwright-to-download-files-from-remote-servers-23b0)
 
 
+### 📫 LinkedIn profile ...
+
+https://www.linkedin.com/in/ryan-rosello-89993222
